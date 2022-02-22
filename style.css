@@ -1,0 +1,45 @@
+.container {
+    width: 500px;
+    height: 320px;
+    border: 1px solid gray;
+    margin: 0 auto;
+}
+.card-header {
+    background-color:teal;
+    height: 80px;
+    border-radius: 3px;
+}
+    
+.card-body {
+    height: 130px;
+    padding: 15px 30px;
+}
+
+.icon {
+    width: 100px;
+    border:2px solid lightgray;
+    border-radius: 50%;
+    position: relative;
+    top:0px;
+    left: 30px;
+}
+
+.mapa {
+    width:10px;
+    height:10px;
+}
+
+.link-profile {
+    margin top: 540px;
+    text-decoration: underline;
+    color: blue;
+
+}
+h1 {
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
